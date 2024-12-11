@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Burger MEE</string>
+
+    <string name="Title">Pour L\'amour Des Burgers...
+</string>
+    <string name="choose_your_burger">Choisissez votre hamburger!
+</string>
+    <string-array name="choose_burger_options">
+        <item>Le Hamburger Classic</item>
+        <item>Le Burger Au Fromage</item>
+        <item>Burger Suisse Aux Champignons</item>
+        <item>Burger A La Moutarde Et Au Miel</item>
+        <item>Notre Burger Signature</item>
+    </string-array>
+
+    <string name="choose_your_drink">Choisissez votre Boisson!
+</string>
+    <string-array name="choose_drink_options">
+        <item>Pepsi</item>
+        <item>Pepsi Dight</item>
+        <item>7up</item>
+        <item>7up Dight</item>
+        <item>Miranda</item>
+        <item>Miranda Dight</item>
+    </string-array>
+
+    <string name="Fries_S">Frites: petite Boite</string>
+    <string name="Fries_M">Frites: Boite Moyenne</string>
+    <string name="Fries_L">Frites: Grande Boite</string>
+
+
+    <string name="View" translatable="false">Login</string>
+    <string name="Submit">Soumettre La Commande</string>
+
+    <string name="submit1" translatable="false">se connecter</string>
+    <string name="submit2" translatable="false">sinscrire</string>
+
+
+    <string name="about_us" translatable="false">à propos de nous
+</string>
+
+    <string name="description" translatable="false">Bienvenue sur notre application de commande de burgers, où les saveurs exquises et la commodité se rencontrent ! Depuis notre création en 1999, nous sommes déterminés à révolutionner votre expérience du plaisir d un burger parfait. Notre engagement envers l excellence va au-delà des délices que nous offrons ; il est intégré au cœur même de notre application conviviale. Avec une interface fluide conçue pour rendre votre expérience de commande sans effort, nous servons la satisfaction depuis plus de deux décennies. Rejoignez-nous dans ce voyage savoureux alors que nous continuons à redéfinir l art de savourer un burger, une commande à la fois.</string>
+
+
+
+</resources>

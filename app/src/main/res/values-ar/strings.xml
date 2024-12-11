@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Burger MEE</string>
+
+    <string name="choose_your_burger" translatable="false">اختر البرجر الخاص بك!
+</string>
+    <string-array name="choose_burger_options">
+        <item>The Classic Burger</item>
+        <item>The Cheesy Burger</item>
+        <item>Muchroom Swiss Burger</item>
+        <item>HoneyMustard Burger</item>
+        <item>Our Signature Burger</item>
+    </string-array>
+
+    <string name="choose_your_drink" translatable="false">اختر مشروبك!
+</string>
+    <string-array name="choose_drink_options">
+        <item>Pepsi</item>
+        <item>Pepsi Dight</item>
+        <item>7up</item>
+        <item>7up Dight</item>
+        <item>Miranda</item>
+        <item>Miranda Dight</item>
+    </string-array>
+
+    <string name="Fries_S" translatable="false">Fries: Small Box</string>
+    <string name="Fries_M" translatable="false">Fries: Medium Box</string>
+    <string name="Fries_L" translatable="false">Fries: Large Box</string>
+
+
+    <string name="View" translatable="false">مشاهدة الطلب</string>
+    <string name="Submit" translatable="false">أكد الطلب</string>
+
+    <string name="submit1" translatable="false">تسجيل الدخول</string>
+    <string name="submit2" translatable="false">اشتراك</string>
+
+
+    <string name="about_us" translatable="false">معلومات عنا</string>
+
+    <string name="description" translatable="false">
+مرحبًا في تطبيقنا لطلب البرغر، حيث تتقاطع النكهات المشوية والراحة! منذ إنشائنا في عام 1999، كنا ملتزمين بتحويل تجربتك في التمتع ببرغر مثالي. التفاني لدينا في التميز يتجاوز اللقمات اللذيذة التي نقدمها؛ إنه مضمن في جوهر تطبيقنا السهل الاستخدام. مع واجهة سلسة مصممة لتجعل تجربتك في الطلب بلا جهد، لقد خدمنا الرضا لأكثر من عقدين من الزمن. انضم إلينا في هذه الرحلة اللذيذة حيث نستمر في إعادة تعريف فن التمتع ببرغر، طلباً بعد آخر.
+
+
+
+
+</string>
+</resources>

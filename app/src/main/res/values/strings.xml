@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Burger MEE</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="Title" translatable="false">For The Love Of BURGERS...
+</string>
+    <string name="choose_your_burger" translatable="false">Choose Your Burger!
+</string>
+    <string-array name="choose_burger_options">
+        <item>The Classic Burger</item>
+        <item>The Cheesy Burger</item>
+        <item>Muchroom Swiss Burger</item>
+        <item>HoneyMustard Burger</item>
+        <item>Our Signature Burger</item>
+    </string-array>
+
+    <string name="choose_your_drink" translatable="false">Choose Your Drink!
+</string>
+    <string-array name="choose_drink_options">
+        <item>Pepsi</item>
+        <item>Pepsi Dight</item>
+        <item>7up</item>
+        <item>7up Dight</item>
+        <item>Miranda</item>
+        <item>Miranda Dight</item>
+    </string-array>
+
+    <string name="Fries_S" translatable="false">Fries: Small Box</string>
+    <string name="Fries_M" translatable="false">Fries: Medium Box</string>
+    <string name="Fries_L" translatable="false">Fries: Large Box</string>
+
+
+    <string name="View" translatable="false">View Order</string>
+    <string name="Submit" translatable="false">Submit Order</string>
+
+    <string name="submit1" translatable="false">Login</string>
+    <string name="submit2" translatable="false">Signup</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+        <string-array name="social_media_options">
+            <item>Facebook</item>
+            <item>Instagram</item>
+            <item>Twitter</item>
+            <item>WhatsApp</item>
+        </string-array>
+
+
+    <string name="about_us" translatable="false">About Us</string>
+
+    <string name="description" translatable="false">
+Welcome to our burger ordering application, where sizzling flavors and convenience converge! Since our inception in 1999, we have been dedicated to revolutionizing the way you experience the joy of a perfect burger. Our commitment to excellence extends beyond the delectable bites we offer; it is embedded in the very core of our user-friendly application. With a seamless interface designed to make your ordering experience effortless, we have been serving up satisfaction for over two decades. Join us on this flavorful journey as we continue to redefine the art of burger enjoyment, one order at a time.</string>
+</resources>
